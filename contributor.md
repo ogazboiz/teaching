@@ -11,3 +11,7 @@ Handle: https://github.com/ogungbemichael/
 Name: Stella Ojo
 Handle: https://github.com/StellaOjo/
 "Learning git use"
+
+Name: Krypto senora
+Handle:https://github.com/Senora665/
+"github is very techinal but we move"
