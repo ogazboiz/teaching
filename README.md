@@ -1,8 +1,10 @@
+
 # What it is 
-    learning git and github
+it is about git
+
 # A Screenshot
 # Live link 
-    https://thopsystemwise.netlify.app/
+https://github.com/ogazboiz/teaching.git
 # how to run it 
     install git
     fork a repo
